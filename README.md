@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## 使用方法:
 1. 先下载[Salome](https://www.salome-platform.org/downloads/previous-versions/salome-v9.4) (版本最好为9.4,其他版本尚未测试)
 2. 再下载[Pfsalome](https://github.com/leoxiaoyuan/PFsalome)，然后解压到salome模块文件夹中(路径示例 Salome-9.4/SALOME-9.4.0-UB18.04-SRC/BINARIES-UB18.04)
@@ -63,3 +64,6 @@ PFsalome是作为一个轻量化库被集成到salome中，具体文件结构如
         <font color='#33CCFF'>view</font>-->pvsimple.getviews()
 
         <font color=purple>mainwindow</font> 的获取-->pvsimple.getviewwidget()
+=======
+# My-Blog
+>>>>>>> Initial commit
