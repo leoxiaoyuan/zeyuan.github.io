@@ -1,6 +1,6 @@
-<img width="180px" style="border-radius: 50%" bor src="boy.jfif">
+<img width="180px" style="border-radius: 50%" bor src="photo.jpg">
 
-# A happy programming noob
+# A happy programmer
 
 Hi! My name is Zeyuan. I have created a few interesting projects using Unix, Python, Fortran and JavaScript. 
 
@@ -9,5 +9,5 @@ The overall aim of my research is to investigate and develop the next generation
 <!-- [![stars](https://badgen.net/github/stars/Q-Angelo/Nodejs-Roadmap?icon=github&color=4ab8a1)](https://github.com/Q-Angelo/Nodejs-Roadmap) [![forks](https://badgen.net/github/forks/Q-Angelo/Nodejs-Roadmap?icon=github&color=4ab8a1)](https://github.com/Q-Angelo/Nodejs-Roadmap) -->
 
 [GitHub](<https://github.com/leoxiaoyuan?tab=repositories>)
-[Let's get started](?id=Publications)
+[About ME](?id=Publications)
 

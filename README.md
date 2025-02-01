@@ -4,6 +4,7 @@
 1. [Pfsalome](https://github.com/leoxiaoyuan/PFsalome)
 2. [Smart Welding](https://github.com/leoxiaoyuan/ANN_for_welding)
 3. OV PINN Extension (will be open source soon)
+<iframe src="https://drive.google.com/file/d/1H0rcoueuNJ-sNWnDbeXbuHhuMZ_oE2uK/view?usp=sharing" width="640" height="360" allow="autoplay" allowfullscreen></iframe>
 
 ## Publications:
 1. [Surrogate model development using simulation data to predict weld residual stress: A case study based on the NeT-TG1 benchmark](https://www.sciencedirect.com/science/article/pii/S030801612300131X)
